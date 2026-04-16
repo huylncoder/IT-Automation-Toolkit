@@ -1,0 +1,6 @@
+=== NETWORK STATUS REPORT ===
+Thời gian: 2026-04-16 13:10:53.839597
+
+192.168.1.1     → Online
+192.168.1.100   → Online
+192.168.1.101   → Online

@@ -1,0 +1,17 @@
+Thời gian: 2026-04-14 09:06:37
+Hệ điều hành: Windows 11
+
+=== Ổ CỨNG ===
+Ổ: C:\ (C:\)
+   Dung lượng: 63 GB
+   Đã dùng: 31 GB (49.8%)
+   Còn trống: 31 GB
+
+=== RAM ===
+Tổng RAM: 2 GB
+Đã dùng: 2 GB (79.5%)
+Còn trống: 0 GB
+
+=== CPU ===
+Nhiệt độ CPU: Không lấy được (chạy với quyền Admin hoặc máy không hỗ trợ)
+Sử dụng CPU: 13.4%
